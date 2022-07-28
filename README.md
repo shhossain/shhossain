@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi
 
-<!--
-**shhossain/shhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shafayat Hossain Shifat and I am studing in CSE. Currently learning about deep learing and ml. Always learning.
 
-Here are some ideas to get you started:
+![Sifat's github stats](https://github-readme-stats.vercel.app/api?username=shhossain&show_icons=true&line_height=21&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhossain&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My blog](https://github-read-medium.vercel.app/latest?username=sifat777&limit=6&theme=nord)
+
+## Get in Touch
+I'm always open and looking for any collaboration, feel free to reach me out via :
+- Email : [hossain0338@gmail.com](mailto:hossain0338@gmail.com)
+- Facebook : [Farhan Yuda Pahlevi](https://www.facebook.com/sh0338/)
+- Personal Site : [Still In Development](http://safayat.me)
