@@ -9,7 +9,7 @@ My name is Shafayat Hossain Shifat and I am currently studing in CSE. Full stack
 ![My blog](https://github-read-medium.vercel.app/latest?username=sifat777&limit=6&theme=nord)
 
 ## Get in Touch
-I'm always open and looking for any collaboration, feel free to reach me out via :
+I'm always open for any collaboration, feel free to reach me out via :
 - Email : [hossain0338@gmail.com](mailto:hossain0338@gmail.com)
 - Facebook : [SH Hossain](https://www.facebook.com/sh0338/)
 - Personal Site : [Still In Development](http://safayat.me)
