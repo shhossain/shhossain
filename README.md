@@ -11,5 +11,5 @@ My name is Shafayat Hossain Shifat and I am currently studing in CSE. Full stack
 ## Get in Touch
 I'm always open for any collaboration, feel free to reach me out via :
 - Email : [hossain0338@gmail.com](mailto:hossain0338@gmail.com)
-- Facebook : [SH Hossain](https://www.facebook.com/sh0338/)
+- Facebook : [Sifat SH](https://www.facebook.com/shafayath7)
 - Personal Site : [Still In Development](http://safayat.me)
