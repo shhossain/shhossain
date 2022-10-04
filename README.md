@@ -1,6 +1,4 @@
-# Hi
-
-My name is Shafayat Hossain Shifat and I am currently studing in CSE. Full stack devoloper.
+# Sifat
 
 ![Sifat's github stats](https://github-readme-stats.vercel.app/api?username=shhossain&show_icons=true&line_height=21&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shhossain&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
