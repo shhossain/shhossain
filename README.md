@@ -10,6 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Skills in Algorithmic Problem Solving are More Important Than Ever in 2023](https://dev.to/shhossain/why-skills-in-algorithmic-problem-solving-are-more-important-than-ever-in-2023-28mf)
+- [The Importance of Competitive Programming in the Age of AI: Why Skills in Algorithmic Problem…](https://medium.com/@sifat777/the-importance-of-competitive-programming-in-the-age-of-ai-why-skills-in-algorithmic-problem-c5ec3310e10a?source=rss-35fbb53d98f7------2)
+- [The Future of Sentience: Can We Create Conscious AI in the Next Five Years?](https://medium.com/@sifat777/the-future-of-sentience-can-we-create-conscious-ai-in-the-next-five-years-7ee9422eb3ac?source=rss-35fbb53d98f7------2)
+- [How to convert wattpad stories to ebook with python](https://medium.com/@sifat777/how-to-convert-wattpad-stories-to-ebook-with-python-d49496c096b1?source=rss-35fbb53d98f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
