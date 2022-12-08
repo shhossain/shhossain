@@ -96,15 +96,15 @@
 <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shhossain&show_icons=true&locale=en&layout=compact"
       alt="shhossain"
-      style="height: 120px; width: 30%"
+      style="height: 120px;"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=shhossain&show_icons=true&locale=en"
       alt="shhossain"
-      style="height: 120px; width: 30%"
+      style="height: 120px;"
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=shhossain&"
       alt="shhossain"
-      style="height: 120px; width: 30%"
+      style="height: 120px;"
     />
