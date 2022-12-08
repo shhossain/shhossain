@@ -96,7 +96,7 @@
 <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shhossain&show_icons=true&locale=en&layout=compact"
       alt="shhossain"
-      style="height: 120px; transform: scale(1.2)"
+      style="height: 120px; width: 120%"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=shhossain&show_icons=true&locale=en"
