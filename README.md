@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between">
-      <a href="https://fb.com/sifatsh77" target="blank"
+      <a href="https://fb.me/sifatsh777" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="sifatsh77"
+          alt="sifatsh777"
           height="30"
           width="40"
       /></a>
