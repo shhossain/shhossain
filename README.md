@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sifat</h1>
-<img src="https://komarev.com/ghpvc/?username=shhossain&label=Profile%20views&color=0e75b6&style=flat" alt="shhossain" />
+<!-- <img src="https://komarev.com/ghpvc/?username=shhossain&label=Profile%20views&color=0e75b6&style=flat" alt="shhossain" /> -->
 
 
 - <img src='https://user-images.githubusercontent.com/80335059/206486358-78c18c0f-ded1-4d2f-8068-118b4935973a.png' height='10' width='20' style='vertical-align:bottom;'/> I’m currently learning **Machine Learning**
