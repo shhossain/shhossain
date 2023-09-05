@@ -8,10 +8,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Face Recognition on a Large Collection of Faces with Python](https://dev.to/shhossain/face-recognition-on-a-large-collection-of-faces-with-python-4e36)
+- [How to Perform Face Recognition on a Large Collection of Faces with Python](https://medium.com/@sifat777/how-to-perform-face-recognition-on-a-large-collection-of-faces-with-python-884b59a5a3dd?source=rss-35fbb53d98f7------2)
 - [A Quantum Leap to the Future: LK-99 — The Game-Changing Superconductor!](https://medium.com/@sifat777/a-quantum-leap-to-the-future-lk-99-the-game-changing-superconductor-5601d5ea24a4?source=rss-35fbb53d98f7------2)
 - [Merge individual pages of PDF file into one page with python](https://medium.com/@sifat777/merge-individual-pages-of-pdf-file-into-one-page-with-python-9e5609b2516c?source=rss-35fbb53d98f7------2)
-- [BanglaSpeech2Text: Transcribing Speech to Text in Bangla Made Easy](https://medium.com/@sifat777/banglaspeech2text-transcribing-speech-to-text-in-bangla-made-easy-e549b5d68058?source=rss-35fbb53d98f7------2)
-- [Why Skills in Algorithmic Problem Solving are More Important Than Ever in 2023](https://dev.to/shhossain/why-skills-in-algorithmic-problem-solving-are-more-important-than-ever-in-2023-28mf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
