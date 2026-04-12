@@ -8,10 +8,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Sorting Algorithms Over the Years &lpar;Bubble sort to AI-driven sort&rpar;](https://medium.com/@sifat777/the-evolution-of-sorting-algorithms-over-the-years-bubble-sort-to-ai-driven-sort-5b009ac771e2?source=rss-35fbb53d98f7------2)
 - [The Evolution of Sorting Algorithms Over the Years &lpar;Bubble sort to AI-driven sort&rpar;](https://dev.to/shhossain/the-evolution-of-sorting-algorithms-over-the-years-bubble-sort-to-ai-driven-sort-31pg)
 - [Face Recognition on a Large Collection of Faces with Python](https://dev.to/shhossain/face-recognition-on-a-large-collection-of-faces-with-python-4e36)
-- [How to Perform Face Recognition on a Large Collection of Faces with Python](https://medium.com/@sifat777/how-to-perform-face-recognition-on-a-large-collection-of-faces-with-python-884b59a5a3dd?source=rss-35fbb53d98f7------2)
+- [Why Skills in Algorithmic Problem Solving are More Important Than Ever in 2023](https://dev.to/shhossain/why-skills-in-algorithmic-problem-solving-are-more-important-than-ever-in-2023-28mf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
